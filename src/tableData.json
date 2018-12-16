@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1,
+        "name": "Евроопт",
+        "link":"<a href='../pages/evroopt1.html'>Look at the products</>",
+        "address": "ул. Я.Коласа, 36, Минск",
+        "lat":"53.9280639",
+        "lon":"27.596582300000023",
+        "mode":"с 09:00 до 22:00",
+        "act":"<a class='delete' title='Delete'><i class='material-icons'>&#xE872;</i></a>"
+    },    
+    {
+        "id": 2,
+        "name": "Корона Замок",
+        "link":"<a href='../pages/koronaZamok.html'>Look at the products</>",
+        "address": "пр-т. Победителей 65, Минск",
+        "lat":"53.9263428",
+        "lon":"27.517552000000023",
+        "mode":"с 09:00 до 22:00",
+        "act":"<a class='delete' title='Delete'><i class='material-icons'>&#xE872;</i></a>"
+    },
+    {
+        "id": 3,
+        "name": "Соседи",
+        "link":"<a href='../pages/sosedi.html'>Look at the products</>",
+        "address": "пр-т. Независимости 11/2, Минск",
+        "lat":"53.8968873",
+        "lon":"27.55080529999998",
+        "mode":"с 07:00 до 23:00",
+        "act":"<a class='delete' title='Delete'><i class='material-icons'>&#xE872;</i></a>"
+    },
+    {
+        "id": 4,
+        "name": "Евроопт",
+        "link":"<a href='../pages/evroopt2.html'>Look at the products</>",
+        "address": "ул. Янковского, 44-135, Минск",
+        "lat":"53.8808614",
+        "lon":"27.452872800000023",
+        "mode":"с 09:00 до 23:00",
+        "act":"<a class='delete' title='Delete'><i class='material-icons'>&#xE872;</i></a>"
+    },
+    {
+        "id": 5,
+        "name": "Брусничка",
+        "link":"<a href='../pages/brusnichka.html'>Look at the products</>",
+        "address": "пр-т. Дзержинского 55, Минск",
+        "lat":"53.87756599999999",
+        "lon":"27.49831530000006",
+        "mode":"с 09:00 до 22:00",
+        "act":"<a class='delete' title='Delete'><i class='material-icons'>&#xE872;</i></a>"
+    },
+    {
+        "id": 6,
+        "name": "Виталюр",
+        "link":"<a href='../pages/vitalur.html'>Look at the products</>",
+        "address": "ул. Космонавтов 5а, Минск",
+        "lat":"53.8534079",
+        "lon":"27.46694690000004",
+        "mode":"с 08:00 до 23:00",
+        "act":"<a class='delete' title='Delete'><i class='material-icons'>&#xE872;</i></a>"
+    },
+    {
+        "id": 7,
+        "name": "ProStore",
+        "link":"<a href='../pages/prostore.html'>Look at the products</>",
+        "address": "пр-т. Дзержинского 126, Минск",
+        "lat":"53.8474223",
+        "lon":"27.471088099999974",
+        "mode":"с 00:00 до 24:00",
+        "act":"<a class='delete' title='Delete'><i class='material-icons'>&#xE872;</i></a>"
+    },
+    {
+        "id": 8,
+        "name": "Копеечка",
+        "link":"<a href='../pages/kopeechka.html'>Look at the products</>",
+        "address": "ул. Громова 28, Минск",
+        "lat":"53.8524667",
+        "lon":"27.442617199999972",
+        "mode":"с 09:00 до 23:00",
+        "act":"<a class='delete' title='Delete' ><i class='material-icons'>&#xE872;</i></a>"
+    },
+    {
+        "id": 9,
+        "name": "Соседи",
+        "link":"<a href='../pages/sosedi2.html'>Look at the products</>",
+        "address": "пр-т. Дзержинского 119, Минск",
+        "lat":"53.8510204",
+        "lon":"27.476645700000063",
+        "mode":"с 08:00 до 23:00",
+        "act":"<a class='delete' title='Delete'><i class='material-icons'>&#xE872;</i></a>"
+    },
+    {
+        "id": 10,
+        "name": "Виталюр",
+        "link":"<a href='../pages/vitalur2.html'>Look at the products</>",
+        "address": "пр-т. Газеты Правда 20, Минск",
+        "lat":"53.8676745",
+        "lon":"27.48398169999996",
+        "mode":"с 08:00 до 23:00",
+        "act":"<a class='delete' title='Delete'><i class='material-icons'>&#xE872;</i></a>"
+    }
+] 

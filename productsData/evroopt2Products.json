@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Макороны",
+        "description":"Barilla в.с. 900г",
+        "act":"<a class='delete' title='Delete'><i class='material-icons'>&#xE872;</i></a>"
+    },   
+    {
+        "id": 2,
+        "name": "Майонез",
+        "description":"Провансаль столичный 500г",
+        "act":"<a class='delete' title='Delete'><i class='material-icons'>&#xE872;</i></a>"
+    },  
+    {
+        "id": 3,
+        "name": "Колбоса",
+        "description":"Докторская в.с. 2кг",
+        "act":"<a class='delete' title='Delete'><i class='material-icons'>&#xE872;</i></a>"
+    },  
+    {
+        "id": 4,
+        "name": "Сосиски",
+        "description":"Молочные с сыром 1,7кг",
+        "act":"<a class='delete' title='Delete'><i class='material-icons'>&#xE872;</i></a>"
+    },  
+    {
+        "id": 5,
+        "name": "Творог",
+        "description":"Обезжиренный",
+        "act":"<a class='delete' title='Delete'><i class='material-icons'>&#xE872;</i></a>"
+    }
+]

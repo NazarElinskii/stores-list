@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Морепродукты",
+        "description":"Анчоус 2кг",
+        "act":"<a class='delete' title='Delete'><i class='material-icons'>&#xE872;</i></a>"
+    },   
+    {
+        "id": 2,
+        "name": "Морепродукты",
+        "description":"Краб Камчатский 1,4кг",
+        "act":"<a class='delete' title='Delete'><i class='material-icons'>&#xE872;</i></a>"
+    },  
+    {
+        "id": 3,
+        "name": "Сыр",
+        "description":"Дорблю 400гр",
+        "act":"<a class='delete' title='Delete'><i class='material-icons'>&#xE872;</i></a>"
+    },  
+    {
+        "id": 4,
+        "name": "Сельд",
+        "description":"Норвежская 1кг",
+        "act":"<a class='delete' title='Delete'><i class='material-icons'>&#xE872;</i></a>"
+    },  
+    {
+        "id": 5,
+        "name": "Укроп",
+        "description":"Зеленый 400гр",
+        "act":"<a class='delete' title='Delete'><i class='material-icons'>&#xE872;</i></a>"
+    }
+]

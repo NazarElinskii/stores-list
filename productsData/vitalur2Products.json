@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Алкоголь",
+        "description":"Водка кедровая 0.5л",
+        "act":"<a class='delete' title='Delete'><i class='material-icons'>&#xE872;</i></a>"
+    },   
+    {
+        "id": 2,
+        "name": "Снэки",
+        "description":"Кукурузные",
+        "act":"<a class='delete' title='Delete'><i class='material-icons'>&#xE872;</i></a>"
+    },  
+    {
+        "id": 3,
+        "name": "Соль",
+        "description":"Поваренная пищевая 1кг",
+        "act":"<a class='delete' title='Delete'><i class='material-icons'>&#xE872;</i></a>"
+    },  
+    {
+        "id": 4,
+        "name": "Томаты",
+        "description":"Болгарские 2кг",
+        "act":"<a class='delete' title='Delete'><i class='material-icons'>&#xE872;</i></a>"
+    },  
+    {
+        "id": 5,
+        "name": "Дыня",
+        "description":"Кормовая 1,3кг",
+        "act":"<a class='delete' title='Delete'><i class='material-icons'>&#xE872;</i></a>"
+    }
+]

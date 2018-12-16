@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Печенье",
+        "description":"Овсяное 2кг",
+        "act":"<a class='delete' title='Delete'><i class='material-icons'>&#xE872;</i></a>"
+    },   
+    {
+        "id": 2,
+        "name": "Шоколад",
+        "description":"Горький 100г",
+        "act":"<a class='delete' title='Delete'><i class='material-icons'>&#xE872;</i></a>"
+    },  
+    {
+        "id": 3,
+        "name": "Сок",
+        "description":"Гранатовый 1л",
+        "act":"<a class='delete' title='Delete'><i class='material-icons'>&#xE872;</i></a>"
+    },  
+    {
+        "id": 4,
+        "name": "Сливки",
+        "description":"Простоквашино 26%",
+        "act":"<a class='delete' title='Delete'><i class='material-icons'>&#xE872;</i></a>"
+    },  
+    {
+        "id": 5,
+        "name": "Сыр",
+        "description":"Ласковое лето плавленный 360гр",
+        "act":"<a class='delete' title='Delete'><i class='material-icons'>&#xE872;</i></a>"
+    }
+]

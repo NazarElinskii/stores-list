@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Огурцы",
+        "description":"Белорусские 1кг",
+        "act":"<a class='delete' title='Delete'><i class='material-icons'>&#xE872;</i></a>"
+    },   
+    {
+        "id": 2,
+        "name": "Кукуруза",
+        "description":"Boduelle",
+        "act":"<a class='delete' title='Delete'><i class='material-icons'>&#xE872;</i></a>"
+    },  
+    {
+        "id": 3,
+        "name": "Оливки",
+        "description":"Консервированные",
+        "act":"<a class='delete' title='Delete'><i class='material-icons'>&#xE872;</i></a>"
+    },  
+    {
+        "id": 4,
+        "name": "Авокадо",
+        "description":"Спелый",
+        "act":"<a class='delete' title='Delete'><i class='material-icons'>&#xE872;</i></a>"
+    },  
+    {
+        "id": 5,
+        "name": "Чипсы",
+        "description":"Lays с сыром",
+        "act":"<a class='delete' title='Delete'><i class='material-icons'>&#xE872;</i></a>"
+    }
+]
